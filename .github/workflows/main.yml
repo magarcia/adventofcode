@@ -40,7 +40,7 @@ jobs:
       - name: Run tests
         run: |
           cd 2020
-          npm test -- --json --outputFile=result.json --testLocationInResults
+          npm test -- --json --outputFile=../result.json --testLocationInResults
           
       - uses: tanmen/jest-reporter@v1
         if: always()
