@@ -1,4 +1,6 @@
-# 2020
+# Advent of Code 2020
+
+My [Advent of Code 2020](https://adventofcode.com/2020/) solutions in the JavaScript.
 
 - [Day 1](./01)
 - [Day 2](./02)

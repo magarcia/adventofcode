@@ -172,3 +172,5 @@ tags
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/node,vscode,vim,macos
+
+2021/**/target
